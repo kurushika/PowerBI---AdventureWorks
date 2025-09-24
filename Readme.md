@@ -1,4 +1,4 @@
-# AdventureWorks - Power BI Dashboard
+## AdventureWorks - Power BI Dashboard
 
 ## 📊 Project Overview
 This repository contains a Power BI dashboard built on the **AdventureWorks** dataset. The project demonstrates how to transform raw data into meaningful business insights through data modeling, visualization, and interactive reporting.
