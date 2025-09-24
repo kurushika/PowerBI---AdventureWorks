@@ -56,7 +56,7 @@ The Power BI report includes:
 AdventureWorks-PowerBI/
 │
 ├── Dashboard.pbix        # Power BI report file
-├── README.txt            # Project documentation
+├── README.md            # Project documentation
 ├── PPT                 # Dataset files (if shared)
 └── Images/               # Dashboard screenshots
 ```
